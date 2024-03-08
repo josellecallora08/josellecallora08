@@ -11,5 +11,5 @@
 
 - ⚡ Fun fact: I watch Kdrama especially if it's Sci-fi and Action.
 
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=josellecallora08&show_icons=true&locale=en&layout=compact" alt="soj" />
 
