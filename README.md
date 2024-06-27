@@ -2,6 +2,8 @@
 
 ### Get To Know Me
 
+![Wallpaper](public/images/wallpaper.png)
+
 <a href="https://github.com/ryo-ma/github-profile-trophy">
    <img src="https://github-profile-trophy.vercel.app/?username=josellecallora08" height="150" alt="josellecallora08"/>
 </a> 
